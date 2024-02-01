@@ -20,5 +20,5 @@ Contents
 
    usage
    api
-   example.md
    ff.md
+   
