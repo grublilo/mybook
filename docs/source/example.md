@@ -10,3 +10,6 @@ Here's my admonition content.{sup}`1`
 
 (header-label)=
 # A header
+
+{.bg-primary}
+### Paragraph heading
