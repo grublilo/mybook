@@ -21,3 +21,4 @@ Contents
    usage
    api
    example.md
+   example2.md
