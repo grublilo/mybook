@@ -27,3 +27,18 @@ abc | mnp | xyz
 --- | --- | ---
 123 | 456 | 789
 :::
+
+
+:::{figure-md}
+![fishy](img/fun-fish.png){.bg-primary .mb-1 width=200px}
+
+This is a caption in **Markdown**
+:::
+
+:::{figure-md} fig-target
+:class: myclass
+
+<img src="img/fun-fish.png" alt="fishy" class="bg-primary mb-1" width="200px">
+
+This is a caption in **Markdown**
+:::
