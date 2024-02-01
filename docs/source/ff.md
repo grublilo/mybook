@@ -15,7 +15,7 @@ This is my note
 Here is [markdown link syntax](https://jupyter.org)
 ```
 
-```:::{note}
+:::{note}
 This text is **standard** _Markdown_
 :::
 
@@ -27,4 +27,3 @@ abc | mnp | xyz
 --- | --- | ---
 123 | 456 | 789
 :::
-```
