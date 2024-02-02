@@ -7,7 +7,7 @@ OSPF is a link-state interior gateway protocol(IGP) used within an autonomous sy
 :::{figure-md}
 ![ospf](img/01.png){.bg-primary .mb-1 width=200px}
 
-This is a caption in **Markdown**
+This is a  **Markdown**
 :::
 
 
